@@ -1,21 +1,21 @@
 # Maintainer: AnoGP <anogp at pm dot me>
 
-pkgname=MotionBox
-_pkgname=MotionBox
+pkgname=motionbox
+_pkgname=motionbox
 pkgver=1.6.0
 pkgrel=1
 pkgdesc="Video browser and player created by bunjee for the Omega Movement"
 arch=("x86_64")
 url="http://omega.gg/MotionBox/"
 license=("GPL3")
-provides=("MotionBox")
-conflicts=("MotionBox")
+provides=("motionbox")
+conflicts=("motionbox")
 depends=(vlc qt5-base)
 source=(
-    MotionBox-1.6.0-linux64.tar.gz
-    MotionBox.desktop
-    MotionBox.png
-    libdouble-conversion.so.1
+    https://github.com/G-P-L/AUR/raw/master/MotionBox/MotionBox-1.6.0-linux64.tar.gz
+    https://github.com/G-P-L/AUR/raw/master/MotionBox/MotionBox.desktop
+    https://github.com/G-P-L/AUR/raw/master/MotionBox/MotionBox.png
+    https://github.com/G-P-L/AUR/raw/master/MotionBox/libdouble-conversion.so.1
 )
 sha256sums=(
 'e2ef85abac7c4ed527f43ca5361b2485b45beff0c913636abc8c9f752e8ef683'
