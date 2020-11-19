@@ -10,6 +10,7 @@ If you found any bug, please report it to the creator, because I am only dealing
 
 ```
 MotionBox
+Tribler
 ```
 
 ### MotionBox
@@ -21,5 +22,17 @@ AUR: https://aur.archlinux.org/packages/motionbox/
 Website: http://omega.gg/MotionBox/
 
 Source code: https://github.com/omega-gg/MotionBox
+
+I am currently maintaining the AUR package for the latest stable x86_64 version.
+
+### Tribler
+
+Tribler is a privacy enhanced decentralized torrent client with peer-to-peer content discovery.
+
+AUR: https://aur.archlinux.org/packages/tribler/
+
+Website: http://www.tribler.org
+
+Source code: https://github.com/Tribler/tribler/
 
 I am currently maintaining the AUR package for the latest stable x86_64 version.
