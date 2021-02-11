@@ -17,7 +17,7 @@ Tribler
 
 MotionBox is a Video Browser for Motion Freedom.
 
-AUR: https://aur.archlinux.org/packages/motionbox/
+AUR: https://aur.archlinux.org/packages/motionbox-bin/
 
 Website: http://omega.gg/MotionBox/
 
