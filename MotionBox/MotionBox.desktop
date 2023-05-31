@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=MotionBox
 Type=Application
-Exec=/opt/MotionBox/start.sh
+Exec=/usr/bin/MotionBox
 Icon=/opt/MotionBox/MotionBox.png
 Path=/opt/MotionBox/
 Categories=AudioVideo;Player;Video;
