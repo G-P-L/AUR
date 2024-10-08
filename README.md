@@ -29,7 +29,7 @@ I am currently maintaining the AUR package for the latest stable x86_64 version.
 
 Tribler is a privacy enhanced decentralized torrent client with peer-to-peer content discovery.
 
-AUR: https://aur.archlinux.org/packages/tribler/
+AUR: https://aur.archlinux.org/packages/tribler-bin/
 
 Website: http://www.tribler.org
 

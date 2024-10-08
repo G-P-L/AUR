@@ -1,5 +1,5 @@
-pkgname=tribler
-_pkgname=tribler
+pkgname=tribler-bin
+_pkgname=tribler-bin
 pkgver=7.14.0
 pkgrel=1
 pkgdesc="P2P/Bittorrent/YouTube client"
