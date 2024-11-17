@@ -1,7 +1,7 @@
 pkgname=tribler-bin
 _pkgname=tribler-bin
 pkgver=7.14.0
-pkgrel=2
+pkgrel=3
 pkgdesc="P2P/Bittorrent/YouTube client"
 arch=("x86_64")
 url="http://tribler.org"
@@ -22,7 +22,6 @@ python-lz4
 python-marshmallow
 python-netifaces
 python-networkx
-python-pony
 python-psutil
 python-pyasn1
 python-pydantic
